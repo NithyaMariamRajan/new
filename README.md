@@ -1,6 +1,7 @@
 # new
-![logo](https://github.com/Nithya-Mariam-Rajan/new/blob/main/github.png)
+<img src="https://github.com/Nithya-Mariam-Rajan/new/blob/main/github.png" alt="logo" width="200" height="300"/>
 <h1 align="center">Hi 👋, I'm Nithya.....</h1>
+
 <h3 align="center">Skills: Python/Java/C/Html/CSS</h3>
 <img align="right" alt="coding" width ="260" src="https://www.bing.com/th/id/OGC.8fd6ae2f0922e6ed19909533860bde90?>pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f17707%2fscreenshots%2f2413754%2frrr.gif&ehk=erIZtubNbjKvMTXk4pMDGVUchz3gS1Cx1KThjw2lRE0%3d"
 
