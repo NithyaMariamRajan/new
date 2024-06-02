@@ -1,5 +1,7 @@
 # new
-<img src="https://github.com/Nithya-Mariam-Rajan/new/blob/main/github.png" alt="logo" width="200" height="300"/>
+
+<img src="https://github.com/Nithya-Mariam-Rajan/new/blob/main/github%20banner.png" alt="logo" width="2500" height="300"/>
+
 <h1 align="center">Hi 👋, I'm Nithya.....</h1>
 
 <h3 align="center">Skills: Python/Java/C/Html/CSS</h3>
