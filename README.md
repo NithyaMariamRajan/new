@@ -1,6 +1,6 @@
 # new
 
-<img src="https://github.com/Nithya-Mariam-Rajan/new/blob/main/github%20banner.png" alt="logo" width="2500" height="300"/>
+<img align="right" alt="logo" src="https://github.com/Nithya-Mariam-Rajan/new/blob/main/github%20banner.png" width="2000" height="250"/> 
 
 <h1 align="center">Hi 👋, I'm Nithya.....</h1>
 
