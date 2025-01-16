@@ -69,11 +69,12 @@
 
 ### 📫 How to Reach Me
 
-- 📧 Email: [Your Email Here]
-- LinkedIn: [Your LinkedIn Profile Here]
-- GitHub: [Your GitHub Profile Here]
+- 📧 Email: [nithya.mariam.2003@gamil.com]
+- LinkedIn: []
+
 
 ---
 
 ✨ Let's Connect and Build Something Amazing! ✨
+
 
