@@ -57,14 +57,14 @@
 
 ### 📈 My GitHub Stats
 
-![Nithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithya-Mariam-Rajan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+//![Nithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NithyaMariamRajan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 
 ---
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nithya-Mariam-Rajan&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NithyaMariamRajan&theme=radical)
 
 
 ---
