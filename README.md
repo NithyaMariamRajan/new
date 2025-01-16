@@ -64,7 +64,7 @@
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NithyaMariamRajan&theme=radical)
+![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NithyaMariamRajan&bg_color=000000&color=ffcc00&line=ffcc00&point=ffffff&area=true&hide_border=true)
 
 
 
