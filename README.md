@@ -55,6 +55,18 @@
 
 ---
 
+### 📈 My GitHub Stats
+
+![Nithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithya-Mariam-Rajan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nithya-Mariam-Rajan&theme=radical)
+
+---
+
 ### 📫 How to Reach Me
 
 - 📧 Email: [Your Email Here]
@@ -65,9 +77,3 @@
 
 ✨ Let's Connect and Build Something Amazing! ✨
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithya-mariam-rajan&show_icons=true&locale=en&layout=compact" alt="nithya-mariam-rajan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithya-mariam-rajan&show_icons=true&locale=en" alt="nithya-mariam-rajan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithya-mariam-rajan&" alt="nithya-mariam-rajan" /></p>
