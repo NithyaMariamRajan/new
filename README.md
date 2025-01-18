@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="logo" width="800" height="auto"/>
-  <img src="https://media.giphy.com/media/kH6eXXkzXmHOS2ZPYX/giphy.gif" alt="typing animation" width="800" height="auto"/>
+  <h1>Hi 👋, I'm Nithya</h1>
   <h3>Web Development Enthusiast | BTech Student at AMAL JYOTHI COLLEGE OF ENGINEERING</h3>
 </div>
 
@@ -11,6 +11,8 @@
 - 🔭 I'm a **BTech** student at **AMAL JYOTHI COLLEGE OF ENGINEERING**, passionate about **web development**.
 - 🌱 Currently learning **JavaScript** to enhance my web development skills.
 - 💻 I enjoy building projects and solving problems through code.
+
+---
 
 ---
 
@@ -55,16 +57,18 @@
 
 
 ---
-
----
-
 ### 📫 How to Reach Me
 
-- 📧 Email: [nithya.mariam.2003@gmail.com]
-
----
+- 📧 **Email**: [nithya.mariam.2003@gmail.com](mailto:nithya.mariam.2003@gmail.com)
+- 🌐 **LinkedIn**:
 
 ✨ Let's Connect and Build Something Amazing! ✨
+
+    </div>
+  </div>
+
+</body>
+</html>
 
 
 
