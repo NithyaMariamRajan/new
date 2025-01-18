@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="logo" width="500" height="auto"/>
+  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="logo" width="800" height="auto"/>
   <h1>Hi 👋, I'm Nithya</h1>
   <h3>Web Development Enthusiast | BTech Student at AMAL JYOTHI COLLEGE OF ENGINEERING</h3>
 </div>
@@ -71,12 +71,3 @@
 ---
 
 ✨ Let's Connect and Build Something Amazing! ✨
-
-
-
-
-
-
-
-
-
