@@ -14,9 +14,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://www.bing.com/th/id/OGC.8fd6ae2f0922e6ed19909533860bde90?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f17707%2fscreenshots%2f2413754%2frrr.gif&ehk=erIZtubNbjKvMTXk4pMDGVUchz3gS1Cx1KThjw2lRE0%3d" alt="coding" width="250"/>
-</div>
+
 
 ---
 
@@ -62,9 +60,7 @@
 
 ---
 
-### 🔥 GitHub Streak
 
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NithyaMariamRajan&bg_color=000000&color=ffcc00&line=ffcc00&point=ffffff&area=true&hide_border=true)
 
 
 
