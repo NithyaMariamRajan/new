@@ -1,22 +1,19 @@
-<div align="center">
-  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="logo" width="800" height="auto"/>
-  <h1>Hi 👋, I'm Nithya</h1>
-  <h3>Web Development Enthusiast | BTech Student at AMAL JYOTHI COLLEGE OF ENGINEERING</h3>
-</div>
+# Hi 👋, I'm Nithya
+
+![Logo](https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
+Web Development Enthusiast | BTech Student at AMAL JYOTHI COLLEGE OF ENGINEERING
 
 ---
 
-### 🌱 About Me
-
+## 🌱 About Me
 - 🔭 I'm a **BTech** student at **AMAL JYOTHI COLLEGE OF ENGINEERING**, passionate about **web development**.
 - 🌱 Currently learning **JavaScript** to enhance my web development skills.
 - 💻 I enjoy building projects and solving problems through code.
 
 ---
 
----
-
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -44,37 +41,22 @@
 
 ---
 
-### 📚 I'm Currently Learning:
-
+## 📚 I'm Currently Learning:
 - **JavaScript**: Diving deep into dynamic web development!
 - Exploring new technologies and frameworks.
 
 ---
 
-### 📈 My GitHub Stats
-
+## 📈 My GitHub Stats
 ![Nithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NithyaMariamRajan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-
 ---
 
-
-
-
-
----
-
-### 📫 How to Reach Me
-
-- 📧 Email: [nithya.mariam.2003@gmail.com]
+## 📫 How to Reach Me
+- 📧 Email: [nithya.mariam.2003@gmail.com](mailto:nithya.mariam.2003@gmail.com)
 
 ---
 
 ✨ Let's Connect and Build Something Amazing! ✨
 
-    </div>
-  </div>
-
-</body>
-</html>
 
