@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" alt="logo" width="500" height="auto"/>
+  <img src="https://www.bing.com/images/search?q=Coding+Pixel+Art+GIF&FORM=IRIBIP" alt="logo" width="500" height="auto"/>
   <h1>Hi 👋, I'm Nithya</h1>
   <h3>Web Development Enthusiast | BTech Student at AMAL JYOTHI COLLEGE OF ENGINEERING</h3>
 </div>
@@ -71,6 +71,7 @@
 ---
 
 ✨ Let's Connect and Build Something Amazing! ✨
+
 
 
 
