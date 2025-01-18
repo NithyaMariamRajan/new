@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://www.bing.com/images/search?q=Coding+Pixel+Art+GIF&FORM=IRIBIP](https://www.bing.com/images/search?view=detailV2&ccid=%2fOQEK4Up&id=347AF4C2576F545FA5F59A77C17AC00103CB48B9&thid=OIP._OQEK4UpZblm-U9Ay670uAHaE5&mediaurl=https%3a%2f%2fmedia.tenor.com%2f-UygBh3nnfEAAAAC%2fcoding.gif&exph=329&expw=498&q=coding+images+and+gif&simid=608034238990387004&FORM=IRPRST&ck=B8BEA2C9E5E7AEC0247DDBE552D26405&selectedIndex=22&itb=0)" alt="logo" width="2000" height="300"/>
+  <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" alt="logo" width="2000" height="300"/>
   <h1>Hi 👋, I'm Nithya</h1>
   <h3>Web Development Enthusiast | BTech Student at AMAL JYOTHI COLLEGE OF ENGINEERING</h3>
 </div>
@@ -13,8 +13,6 @@
 - 💻 I enjoy building projects and solving problems through code.
 
 ---
-
-
 
 ---
 
