@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="logo" width="800" height="auto"/>
-  <h1 class="slide-in-left">Hi 👋, I'm Nithya</h1>
+  <img src="https://media.giphy.com/media/kH6eXXkzXmHOS2ZPYX/giphy.gif" alt="typing animation" width="800" height="auto"/>
   <h3>Web Development Enthusiast | BTech Student at AMAL JYOTHI COLLEGE OF ENGINEERING</h3>
 </div>
 
@@ -11,8 +11,6 @@
 - 🔭 I'm a **BTech** student at **AMAL JYOTHI COLLEGE OF ENGINEERING**, passionate about **web development**.
 - 🌱 Currently learning **JavaScript** to enhance my web development skills.
 - 💻 I enjoy building projects and solving problems through code.
-
----
 
 ---
 
@@ -68,23 +66,6 @@
 
 ✨ Let's Connect and Build Something Amazing! ✨
 
-<!-- Add this CSS in a style tag to animate the name sliding in from the left -->
-<style>
-  .slide-in-left {
-    animation: slideInLeft 2s ease-out;
-  }
-
-  @keyframes slideInLeft {
-    from {
-      transform: translateX(-100%);
-      opacity: 0;
-    }
-    to {
-      transform: translateX(0);
-      opacity: 1;
-    }
-  }
-</style>
 
 
 
