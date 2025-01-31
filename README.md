@@ -14,8 +14,6 @@
 
 ---
 
----
-
 ### 🛠️ Technologies & Tools
 
 <p align="center">
@@ -51,22 +49,21 @@
 
 ---
 
-
 ### 📈 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NithyaMariamRajan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Nithya's GitHub Stats" />
 </p>
 
+---
+
 ### 🔥 My Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=NithyaMariamRajan&theme=dark)](https://git.io/streak-stats)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NithyaMariamRajan/NithyaMariamRajan/main/streak-stats.png" alt="Nithya's Streak Stats" />
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=NithyaMariamRajan&theme=radical" alt="GitHub Streak Stats" />
+  </a>
 </p>
-
-
 
 ---
 
@@ -76,8 +73,7 @@
 - 🌐 **LinkedIn**:
 
 ✨ Let's Connect and Build Something Amazing! ✨
-
-</div>
+s
 
 
 
