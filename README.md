@@ -1,5 +1,31 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="logo" width="800" height="auto"/>
+  <style>
+   /* Typewriter effect styles */
+        
+        .typewriter-text {
+            display: inline-block;
+            overflow: hidden;
+            white-space: nowrap;
+            width: 0;
+            animation: typing 2.5s steps(20) 0.5s forwards;
+        }
+        /* Typewriting animation */
+        
+        @keyframes typing {
+            from {
+                width: 0;
+            }
+            to {
+                width: 100%;
+            }
+        }
+        
+        .h1 {
+            line-height: 1.;
+        }
+    </style>
+   
   <h1>Hi 👋, I'm Nithya</h1>
   <h3>Web Development Enthusiast | BTech Student at AMAL JYOTHI COLLEGE OF ENGINEERING</h3>
 </div>
