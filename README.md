@@ -59,6 +59,7 @@
 </p>
 
 ### 🔥 My Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=NithyaMariamRajan&theme=dark)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NithyaMariamRajan/NithyaMariamRajan/main/streak-stats.png" alt="Nithya's Streak Stats" />
