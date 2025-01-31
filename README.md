@@ -60,11 +60,11 @@
 
 
 ### 🔥 My Streak Stats
-![Nithya's Streak Stats](https://streak-stats.demolab.com?user=NithyaMariamRajan&theme=radical)
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NithyaMariamRajan&theme=radical" alt="Nithya's Streak Stats" />
+ <img src="https://streak-stats.demolab.com?user=NithyaMariamRajan&theme=radical" alt="Nithya's Streak Stats" />
+
 </p>
 
 
