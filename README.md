@@ -1,6 +1,10 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="logo" width="800" height="auto"/>
-  <h1>Hi 👋, I'm Nithya</h1>
+
+  <h1>
+    <span id="typewriter"></span>
+  </h1>
+
   <h3>Web Development Enthusiast | BTech Student at AMAL JYOTHI COLLEGE OF ENGINEERING</h3>
 </div>
 
@@ -55,13 +59,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NithyaMariamRajan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Nithya's GitHub Stats" />
 </p>
 
----
-
 ### 🔥 My Streak Stats
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=NithyaMariamRajan&theme=radical" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=NithyaMariamRajan&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -70,10 +72,27 @@
 ### 📫 How to Reach Me
 
 - 📧 **Email**: [nithyamariamrajan@gmail.com](mailto:nithya.mariam.2003@gmail.com)
-- 🌐 **LinkedIn**:
+- 🌐 **LinkedIn**: [Your LinkedIn Profile](#)
 
 ✨ Let's Connect and Build Something Amazing! ✨
-s
+
+---
+
+<!-- Typewriter Effect Script (For GitHub Pages or Personal Website) -->
+<script>
+  const text = "Hi 👋, I'm Nithya";
+  let i = 0;
+  function typeWriter() {
+    if (i < text.length) {
+      document.getElementById("typewriter").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(typeWriter, 150);
+    }
+  }
+  document.addEventListener("DOMContentLoaded", typeWriter);
+</script>
+
+
 
 
 
