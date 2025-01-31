@@ -41,6 +41,12 @@
 </p>
 
 ---
+### 💡 Projects
+
+- 🌐 [Personal Portfolio]([https://yourportfolio.com](https://nithya-rajan-portfolio.netlify.app/)) - A responsive portfolio website to showcase my  skills.
+
+  
+
 
 ### 📚 I'm Currently Learning:
 
@@ -70,7 +76,7 @@
 ### 📫 How to Reach Me
 
 - 📧 *Email*: [nithyamariamrajan@gmail.com](mailto:nithya.mariam.2003@gmail.com)
-- 🌐 *LinkedIn*:
+- 🌐 *LinkedIn*:[https://www.linkedin.com/in/nithya-mariam-rajan-695428254/]
 
 ✨ Let's Connect and Build Something Amazing! ✨
 
