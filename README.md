@@ -77,7 +77,7 @@
 
 - 📧 *Email*: [nithyamariamrajan@gmail.com](mailto:nithya.mariam.2003@gmail.com)
 - 🌐 *LinkedIn*:[https://www.linkedin.com/in/nithya-mariam-rajan-695428254/]
- - 🌐 *Portfolio*:[https://yourportfolio.com](https://nithya-rajan-portfolio.netlify.app/)
+
 
 ✨ Let's Connect and Build Something Amazing! ✨
 
