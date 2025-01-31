@@ -55,8 +55,14 @@
 
 ![Nithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NithyaMariamRajan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+### 🔥 My Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NithyaMariamRajan&theme=radical" alt="Nithya's Streak Stats" />
+</p>
 
 ---
+
 ### 📫 How to Reach Me
 
 - 📧 **Email**: [nithya.mariam.2003@gmail.com](mailto:nithya.mariam.2003@gmail.com)
@@ -64,11 +70,8 @@
 
 ✨ Let's Connect and Build Something Amazing! ✨
 
-    </div>
-  </div>
+</div>
 
-</body>
-</html>
 
 
 
