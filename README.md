@@ -58,12 +58,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NithyaMariamRajan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Nithya's GitHub Stats" />
 </p>
 
-
 ### 🔥 My Streak Stats
 
-
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=NithyaMariamRajan&theme=radical" alt="Nithya's Streak Stats" />
+  <img src="https://raw.githubusercontent.com/NithyaMariamRajan/NithyaMariamRajan/main/streak-stats.png" alt="Nithya's Streak Stats" />
 
 </p>
 
@@ -73,7 +71,7 @@
 
 ### 📫 How to Reach Me
 
-- 📧 **Email**: [nithya.mariam.2003@gmail.com](mailto:nithya.mariam.2003@gmail.com)
+- 📧 **Email**: [nithyamariamrajan@gmail.com](mailto:nithya.mariam.2003@gmail.com)
 - 🌐 **LinkedIn**:
 
 ✨ Let's Connect and Build Something Amazing! ✨
