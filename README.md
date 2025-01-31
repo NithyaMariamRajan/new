@@ -1,6 +1,16 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="logo" width="800" height="auto"/>
-  <h1>Hi 👋, I'm Nithya</h1>
+  <h1>
+    <span style="font-family: 'Courier New', Courier, monospace; 
+                white-space: nowrap; 
+                overflow: hidden; 
+                display: inline-block; 
+                border-right: 0.1em solid black; 
+                width: 0; 
+                animation: typing 3s steps(30) 1s forwards, blinkCaret 0.75s step-end infinite;">
+      Hi 👋, I'm Nithya
+    </span>
+  </h1>
   <h3>Web Development Enthusiast | BTech Student at AMAL JYOTHI COLLEGE OF ENGINEERING</h3>
 </div>
 
@@ -81,9 +91,20 @@
 
 - 📧 *Email*: [nithyamariamrajan@gmail.com](mailto:nithyamariamrajan@gmail.com)
 - 🌐 *LinkedIn*: [LinkedIn Profile](https://www.linkedin.com/in/nithya-mariam-rajan/)
-- 
 
 ✨ Let's Connect and Build Something Amazing! ✨
+
+<style>
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 18em; } /* Adjust the width to match the length of the text */
+  }
+
+  @keyframes blinkCaret {
+    50% { border-color: transparent; }
+  }
+</style>
+
 
 
 
