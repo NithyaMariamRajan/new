@@ -1,16 +1,7 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="logo" width="800" height="auto"/>
-  <h1>
-    <span style="font-family: 'Courier New', Courier, monospace; 
-                white-space: nowrap; 
-                overflow: hidden; 
-                display: inline-block; 
-                border-right: 0.1em solid black; 
-                width: 0; 
-                animation: typing 3s steps(30) 1s forwards, blinkCaret 0.75s step-end infinite;">
-      Hi 👋, I'm Nithya
-    </span>
-  </h1>
+  <!-- Typewriter effect GIF -->
+  <img src="https://media.giphy.com/media/1k2C4mMzZGnz3UdGlb/giphy.gif" alt="typewriter" width="600" height="auto"/>
   <h3>Web Development Enthusiast | BTech Student at AMAL JYOTHI COLLEGE OF ENGINEERING</h3>
 </div>
 
@@ -94,16 +85,7 @@
 
 ✨ Let's Connect and Build Something Amazing! ✨
 
-<style>
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 18em; } /* Adjust the width to match the length of the text */
-  }
 
-  @keyframes blinkCaret {
-    50% { border-color: transparent; }
-  }
-</style>
 
 
 
