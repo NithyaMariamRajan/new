@@ -62,8 +62,9 @@
 ### 🔥 My Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NithyaMariamRajan&theme=tokyonight" alt="Nithya's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NithyaMariamRajan&theme=radical" alt="Nithya's Streak Stats" />
 </p>
+
 
 ---
 
