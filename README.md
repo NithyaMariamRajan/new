@@ -51,9 +51,7 @@
 
 ---
 
-### 📈 My GitHub Stats
 
-![Nithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NithyaMariamRajan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 ### 📈 My GitHub Stats
 
 <p align="center">
@@ -64,7 +62,7 @@
 ### 🔥 My Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NithyaMariamRajan&theme=radical" alt="Nithya's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NithyaMariamRajan&theme=tokyonight" alt="Nithya's Streak Stats" />
 </p>
 
 ---
