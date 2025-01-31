@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="logo" width="800" height="auto"/>
-  <!-- Typewriter effect GIF -->
-  <img src="https://media.giphy.com/media/1k2C4mMzZGnz3UdGlb/giphy.gif" alt="typewriter" width="600" height="auto"/>
+  <h1>Hi 👋, I'm Nithya</h1>
   <h3>Web Development Enthusiast | BTech Student at AMAL JYOTHI COLLEGE OF ENGINEERING</h3>
 </div>
 
@@ -9,10 +8,9 @@
 
 ### 🌱 About Me
 
-- 🔭 I'm a *BTech* student at *AMAL JYOTHI COLLEGE OF ENGINEERING*, passionate about **web development**.
+- 🔭 I'm a *BTech* student at *AMAL JYOTHI COLLEGE OF ENGINEERING, passionate about **web development*.
 - 🌱 Currently learning *JavaScript* to enhance my web development skills.
 - 💻 I enjoy building projects and solving problems through code.
-- 🚀 I’m always exploring new challenges and love working on creative solutions. I believe in continuous learning and improving through collaboration.
 
 ---
 
@@ -40,23 +38,14 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
   </a>
-  <!-- Add more technologies as you learn -->
 </p>
-
----
-
-### 💡 Projects
-
-- 🌐 [Personal Portfolio](https://yourportfolio.com) - A responsive portfolio website to showcase my web development skills.
-- 💻 [Project Name](https://github.com/NithyaMariamRajan/project-name) - Description of the project.
-  - Tools: HTML, CSS, JavaScript
 
 ---
 
 ### 📚 I'm Currently Learning:
 
 - *JavaScript*: Diving deep into dynamic web development!
-- Exploring new technologies and frameworks, including React, Node.js, and more.
+- Exploring new technologies and frameworks.
 
 ---
 
@@ -80,11 +69,10 @@
 
 ### 📫 How to Reach Me
 
-- 📧 *Email*: [nithyamariamrajan@gmail.com](mailto:nithyamariamrajan@gmail.com)
-- 🌐 *LinkedIn*: [LinkedIn Profile](https://www.linkedin.com/in/nithya-mariam-rajan/)
+- 📧 *Email*: [nithyamariamrajan@gmail.com](mailto:nithya.mariam.2003@gmail.com)
+- 🌐 *LinkedIn*:
 
 ✨ Let's Connect and Build Something Amazing! ✨
-
 
 
 
